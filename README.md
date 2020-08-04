@@ -1,31 +1,66 @@
+# SQL Solution Factory Aligned to Cloud Adoption Framework # 
+The SQL CAF Solution Factory is collection of eBook, TaskList in DevOps Project and Excel, Security Policies suggestions that can help Microsoft customers and partners to deploy and manage Azure SQL in alignment to Cloud Adoption Framework (CAF)..  
 
-# Contributing
+ The Azure Cloud Adoption Journey
+ ![CAF](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/blob/master/TechnicalEnablement/CAF.png)
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+## SQL CAF Solution Factory Contents
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+* [eBook: SQL Adoption Aligned To Cloud Adoption Framework](https://github.com/faridabharmal/SQL_CAF_SolutionFactory/tree/master/TechnicalEnablement)
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+   Detailed guidance about what one needs to do in each of the Cloud Adoption phases for SQL Migration starting from Strategy, Plan, Ready, Adopt, Govern and Manage. We have supplied detailed step by step guidance(from our experiences) that will provide the steps necessary to go from zero to a complete SQL migration and management aligned to the Cloud Adoption Framework methodology.
+   
+   This eBook contains the following documents:    
+      01 - CAF Strategy Phase - SQL Migration  
+      02 - CAF Plan Phase for SQL Migration  
+      03 - CAF Ready Phase for SQL Migration  
+      04 - CAF Adopt Phase - Scenario 1 - SQL Migration - On Prem to Azure VirtualMachine  
+      04 - CAF Adopt Phase - Scenario 2 - SQL Migration - On Prem to AzureSQL Database  
+      04 - CAF Adopt Phase - Scenario 3 - SQL Migration - On Prem to Azure Managed Instance  
+      05 - CAF Governance Phase for SQL Migration  
+      05.1 - CAF Governance Phase for SQL Migration - Security policies  
 
-# Legal Notices
 
-Microsoft and any contributors grant you a license to the Microsoft documentation and other content
-in this repository under the [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/legalcode),
-see the [LICENSE](LICENSE) file, and grant you a license to any code in the repository under the [MIT License](https://opensource.org/licenses/MIT), see the
-[LICENSE-CODE](LICENSE-CODE) file.
+*  [SQL CAF DevOps Project TaskList](https://github.com/faridabharmal/SQL_CAF_SolutionFactory/tree/master/TechnicalEnablement)
 
-Microsoft, Windows, Microsoft Azure and/or other Microsoft products and services referenced in the documentation
-may be either trademarks or registered trademarks of Microsoft in the United States and/or other countries.
-The licenses for this project do not grant you rights to use any Microsoft names, logos, or trademarks.
-Microsoft's general trademark guidelines can be found at http://go.microsoft.com/fwlink/?LinkID=254653.
+    When you go through the SQL migration, its a project with many different activities. We have supplied Azure DevOps Project that will provide the steps necessary to go from zero to a complete SQL migration and management. 
 
-Privacy information can be found at https://privacy.microsoft.com/en-us/
+    Steps to import the DevOps Project:  
+    * Sign in to the [Azure DevOps Demo Generator site](https://docs.microsoft.com/en-us/)  
+    * Provide project name, select your Org, and choose the "SQL Project - Task DevOps Template.zip" template from this GitHub Repo 
 
-Microsoft and any contributors reserve all other rights, whether under their respective copyrights, patents,
-or trademarks, whether by implication, estoppel or otherwise.
+*  [SQL CAF Project TaskList.xlsx](https://github.com/faridabharmal/SQL_CAF_SolutionFactory/tree/master/TechnicalEnablement)
+
+   Incase if you are not leveraging Azure DevOps for project management, no worries. We have provided all the necessary steps in an excel sheet which can be leveraged as is or imported into your own project management tool of choice.  
+
+ 
+* [CAF Governance Phase for SQL Migration - Security policies](https://github.com/faridabharmal/SQL_CAF_SolutionFactory/tree/master/TechnicalEnablement)
+
+   One common question that we get is what are the security considerations for SQL Migartion. So we have provided guidance about how to leverage the Azure policies to secure your environment. This can act as a good starting point for your security consideration. 
+
+
+## Additional Links
+ [SQL Server migration](https://azure.microsoft.com/en-us/migration/sql-server)
+
+ [Savings with SQL on Azure](https://azure.microsoft.com/en-us/overview/azure-vs-aws/) 
+
+ [Smart Program - Strategic Migration Assessment and Readiness Tool](https://docs.microsoft.com/en-us/assessments/?mode=pre-assessment&session=local) 
+
+ [Data Access Migration Toolkit](https://marketplace.visualstudio.com/items?itemName=ms-databasemigration.data-access-migration-toolkit) 
+
+ [Azure Cloud Adoption Framework](https://www.microsoft.com/azure/partners/b/enable/cloud-adoption-framework)
+
+ [Cloud Adoption Framework for Azure Partners](https://www.microsoft.com/azure/partners/adopt?filters=all)
+
+
+## Migration Funding Programs
+ [Azure Migration Program Funding](https://azure.microsoft.com/en-us/migration/migration-program) 
+
+ [Microsoft FastTrack for Azure](https://azure.microsoft.com/en-us/programs/azure-fasttrack)
+
+
+## Key Contributors
+Thanks to our contributors:  
+Microsoft Team: Manish Dhall,  Abha R Panchal, Gennady Kostinsky, Puneet Jeyasingh, Farida Bharmal   
+Reviewers: Brian Hitney, Rajesh Setlem, and Venkata Raj Pochiraju   
+We have leveraged help from Microsoft Partner [Fyrsoft](https://www.fyrsoft.com/) to create the Solution Factory   
