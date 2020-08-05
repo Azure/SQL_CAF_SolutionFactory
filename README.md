@@ -1,4 +1,6 @@
 # SQL Solution Factory Aligned to Cloud Adoption Framework # 
+The SQL CAF Solution Factory has contents to guide deployment of SQL to Azure in alignment to Cloud Adoption Framework. 
+
 The SQL CAF Solution Factory has Technical and Sales Enablement contents for migrating SQL to Azure. The sale content contains powerpoint decks for SQL and CAF. The technical enablement contains eBook that describes what needs to happen during a SQL migration aligned to Cloud Adoption Framework, DevOps Project TaskList that can help Microsoft customers and partners to deploy and manage Azure SQL in alignment to Cloud Adoption Framework (CAF).
 
  The Azure Cloud Adoption Journey
