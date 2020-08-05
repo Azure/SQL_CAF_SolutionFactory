@@ -64,5 +64,5 @@ The SQL CAF Solution Factory has Technical and Sales Enablement contents for mig
 Thanks to our contributors:  
 Microsoft Content Team: Abha R Panchal, Gennady Kostinsky, Puneet Jeyasingh   
 Microosft Reviewers: Brian Hitney, Rajesh Setlem, and Venkata Raj Pochiraju   
-Microsoft CAF Solution Factory Leads: Farida Bharmal, Manish Dhall
+Microsoft CAF Solution Factory Leads: Farida Bharmal, Manish Dhall  
 We have leveraged help from Microsoft Partner [Fyrsoft](https://www.fyrsoft.com/) to create the Solution Factory   
