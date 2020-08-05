@@ -56,9 +56,9 @@ The SQL CAF Solution Factory has Technical and Sales Enablement contents for mig
 *  [Microsoft FastTrack for Azure](https://azure.microsoft.com/en-us/programs/azure-fasttrack)
 
  ## Additional CAF Solution Factories
- * [WVD CAF Solution Factory](https://github.com/Azure/WVD_CAF_SolutionFactory)
- * [AKS CAF Solution Factory](https://github.com/Azure/AKS_CAF_SolutionFactory)
- * [ServerMigration CAF Solution Factory](https://github.com/Azure/ServerMigration_CAF_SolutionFactory)
+ * [WVD CAF Solution Factory](https://github.com/Azure/CAF_WVD_SolutionFactory)  
+ * [AKS CAF Solution Factory](https://github.com/Azure/AKS_CAF_SolutionFactory)  
+ * [ServerMigration CAF Solution Factory](https://github.com/Azure/ServerMigration_CAF_SolutionFactory)   
 
 ## Key Contributors
 Thanks to our contributors:  
