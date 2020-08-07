@@ -33,7 +33,7 @@ The SQL CAF Solution Factory has Technical and Sales Enablement contents for mig
     When you go through the SQL migration, its a project with many different activities. We have supplied Azure DevOps Project that will provide the steps necessary to go from zero to a complete SQL migration and management. 
 
     Steps to import the DevOps Project:  
-    * Sign in to the [Azure DevOps Demo Generator site](https://docs.microsoft.com/en-us/)  
+    * Sign in to the [Azure DevOps Demo Generator site](https://azuredevopsdemogenerator.azurewebsites.net/Account/Verify)  
     * Provide project name, select your Org, and choose the "SQL_CAF_DevOps_Project_TaskList_Template.zip" template from this GitHub Repo 
 
 *  [SQL CAF Project TaskList.xlsx](/TechnicalEnablement/SQL_CAF_Project_TaskList.xlsx)
